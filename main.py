@@ -5,4 +5,4 @@ app = FastAPI()
 @app.get("/")
 def hello():
     return {"message":"Hello TutLinks.com"
-            "message":"HOLA MUNDO"}
+            "message": "HOLA MUNDO"}
